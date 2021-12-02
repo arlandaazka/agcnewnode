@@ -1,8 +1,8 @@
 {
   "name-web":"EVERYTHING YOU KNOW IN THE WORLD",
+  "name-web":"YOUR HOME DESIGN PARTNER",
   "author":"JOHNY",
   "remove-comment-html":true,
-  "target":"https://www.quora.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
